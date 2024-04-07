@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.Form1.resources
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.AssemblyInfo.vb
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\bin\Debug\net8.0-windows\Lorem.exe
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\bin\Debug\net8.0-windows\Lorem.deps.json
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\bin\Debug\net8.0-windows\Lorem.runtimeconfig.json
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\bin\Debug\net8.0-windows\Lorem.dll
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\bin\Debug\net8.0-windows\Lorem.pdb
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.dll
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\refint\Lorem.dll
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.pdb
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\Lorem.genruntimeconfig.cache
+C:\Users\USER\Desktop\Shizzle vb.net\Lorem\obj\Debug\net8.0-windows\ref\Lorem.dll
